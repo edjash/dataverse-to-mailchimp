@@ -25,7 +25,7 @@ Dataverse‑to‑Mailchimp keeps your Microsoft Dataverse (Dynamics 365) con
 
 ```bash
 # Clone + create an isolated env (you can use pyenv, direnv, etc.)
-git clone https://github.com/your‑org/dataverse‑to‑mailchimp.git
+git clone https://github.com/edjash/dataverse‑to‑mailchimp.git
 cd dataverse‑to‑mailchimp
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\Activate.ps1
